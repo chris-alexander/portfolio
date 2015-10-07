@@ -1,0 +1,23 @@
+{
+  "name": "dev-portfolio",
+  "version": "1.0.0",
+  "description": "My web development portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-alexander/portfolio.git"
+  },
+  "author": "Chris Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-alexander/portfolio/issues"
+  },
+  "homepage": "https://github.com/chris-alexander/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.2"
+  }
+}
