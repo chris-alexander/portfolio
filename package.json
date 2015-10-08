@@ -1,8 +1,8 @@
 {
   "name": "dev-portfolio",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "My web development portfolio",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/chris-alexander/portfolio/issues"
   },
-  "homepage": "https://github.com/chris-alexander/portfolio#readme",
+  "homepage": "https://github.com/chris-alexander/portfolio",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-gh-pages": "^0.5.2"
