@@ -1,6 +1,5 @@
-body {
-  background-color: #f1f1f1;
-}
-.navbar-inverse {
-  background-color: #6441A5;
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+.navbar-brand {
+  font-family: 'Pacifico', cursive;
 }
