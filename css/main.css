@@ -3,3 +3,14 @@
 .navbar-brand {
   font-family: 'Pacifico', cursive;
 }
+
+.thumbnail h4 {
+  text-align: center;
+}
+
+.thumbnail:active,
+.thumbnail:hover,
+.thumbnail:link,
+.thumbnail:visited {
+  text-decoration: none;
+}
