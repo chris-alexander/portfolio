@@ -12,7 +12,8 @@ gulp.task('serve', function() {
     bs.init({
         server: {
             baseDir: "./public/"
-        }
+        },
+        files: 'public/**/*.*'
     });
 });
 
